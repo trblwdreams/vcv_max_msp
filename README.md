@@ -12,7 +12,7 @@ For these patches to work, you will need the following softwares installed:
 
 ## Installing the patches
 
-To install these patches, simply download and install them in the default library folder of Max/MSP. On mac OS X, it would typically be `~/Documents/Max\ 7/Library/`. Please check the 
+To install these patches, simply download and install them in the default library folder of Max/MSP. On mac OS X, it would typically be `~/Documents/Max\ 7/Library/`. 
 
 > If Max is already started, it should usually pick up the new patches right away, but you may need to restart the application in some cases.
 
